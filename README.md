@@ -1,4 +1,6 @@
-# comingsoon
-Template Coming Soon - AANI
+# BBC Coming Soon
+This is an edit version of the project used as a coming soon page for BinaryBuilders Club.
+This is a tech geeks club at university of Tripoli, Electrical And Electronic Engineering Deparment.
+All the Thanks to the original auther.
 
-![image](https://user-images.githubusercontent.com/59561245/157359217-f5b256eb-f097-4ebe-a5f7-c3a95c5c0143.png)
+
